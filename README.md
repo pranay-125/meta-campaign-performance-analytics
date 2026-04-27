@@ -87,6 +87,72 @@ To analyze campaign performance, identify inefficiencies across the marketing fu
 <i>Interactive marketing analytics dashboard designed to monitor campaign performance, analyze audience behavior, and identify optimization opportunities.</i>
 </p>
 
+<h2>📊 Dashboard Summary</h2>
+
+<p>
+This dashboard provides a comprehensive view of <strong>Meta (Facebook & Instagram) ad performance</strong> 
+by tracking the complete marketing funnel and key engagement metrics.
+</p>
+
+<hr>
+
+<h3>🔍 Key Performance Highlights</h3>
+
+<ul>
+<li><strong>216K Impressions</strong> and <strong>25.4K Clicks</strong> indicate strong reach and user interest</li>
+
+<li><strong>CTR: 11.76%</strong> and <strong>Engagement Rate: 13.56%</strong> reflect high content effectiveness</li>
+
+<li><strong>1.3K Purchases</strong> with <strong>Conversion Rate: 5.21%</strong></li>
+
+<li><strong>Purchase Rate: 0.61%</strong> highlights a clear conversion drop-off</li>
+
+<li><strong>Total Budget: $2.5M</strong> with <strong>$50.7K avg spend per campaign</strong></li>
+</ul>
+
+<hr>
+
+<h3>👥 Audience & Behavior Insights</h3>
+
+<ul>
+<li><strong>Female users contribute the highest engagement (~43%)</strong></li>
+
+<li><strong>18–30 age group</strong> shows peak engagement and interaction</li>
+
+<li>Engagement trends show consistent activity with noticeable spikes during key periods</li>
+</ul>
+
+<hr>
+
+<h3>🌍 Performance Drivers</h3>
+
+<ul>
+<li>Strong engagement across <strong>North America, Europe, and Asia</strong></li>
+
+<li><strong>Video and Story ads</strong> outperform other formats in engagement and conversions</li>
+
+<li>Peak interaction occurs during <strong>afternoon to evening hours</strong></li>
+</ul>
+
+<hr>
+
+<h3>💡 Business Interpretation</h3>
+
+<p>
+The dashboard clearly shows that while campaigns are highly effective in driving 
+<strong>awareness and engagement</strong>, there is a significant <strong>conversion gap after the click stage</strong>.
+</p>
+
+<p>
+This highlights the need for improvements in:
+</p>
+
+<ul>
+<li>Landing page experience</li>
+<li>Audience targeting refinement</li>
+<li>Retargeting strategies</li>
+</ul>
+
 <img src="https://github.com/user-attachments/assets/c26c3cfd-6aee-4390-b5c1-32b873d2b6f9" width="100%">
 
 <p>
