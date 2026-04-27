@@ -87,8 +87,6 @@ To analyze campaign performance, identify inefficiencies across the marketing fu
 <i>Interactive marketing analytics dashboard designed to monitor campaign performance, analyze audience behavior, and identify optimization opportunities.</i>
 </p>
 
-<h2>📊 Dashboard Summary</h2>
-
 <p>
 This dashboard provides a comprehensive view of <strong>Meta (Facebook & Instagram) ad performance</strong> 
 by tracking the complete marketing funnel and key engagement metrics.
