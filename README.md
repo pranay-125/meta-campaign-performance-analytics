@@ -208,10 +208,11 @@ users.user_id → ad_events.user_id
 
 <h2>👨‍💻 Author</h2>
 
-<p><strong>Pranay Shrivastava</strong></p>
-
 <p>
-Aspiring Data Analyst | Business Analytics Enthusiast
+<b>Pranay Shrivastava</b><br>
+B.Tech – Artificial Intelligence & Data Science<br>
+<b>Specialization:</b> Data Analytics | Business Intelligence<br>
+<a href="mailto:shrivastavapranay.35@gmail.com">Email</a> |
+<a href="https://www.linkedin.com/in/pranayshrivastavaofficial/">LinkedIn</a> |
+<a href="https://github.com/pranay-125">GitHub</a>
 </p>
-
-
