@@ -148,3 +148,14 @@ To analyze campaign performance, identify inefficiencies across the marketing fu
 <p>
 SQL | Excel | Power BI | DAX
 </p>
+
+<h2>👤 Author</h2>
+
+<p>
+<b>Name:</b> Pranay Shrivastava <br>
+<b>Degree:</b> B.Tech – Artificial Intelligence & Data Science <br>
+<b>Specialization:</b> Data Analytics | Business Intelligence <br>
+<b>Email:</b> shrivastavapranay35@gmail.com <br>
+<b>LinkedIn:</b> <a href="https://www.linkedin.com/in/pranayshrivastavaofficial/">linkedin.com/in/pranay-shrivastava</a> <br>
+<b>GitHub:</b> <a href="https://github.com/pranay-125">github.com/pranay-125</a>
+</p>
