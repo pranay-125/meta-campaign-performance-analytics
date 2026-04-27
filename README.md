@@ -6,12 +6,6 @@
 End-to-end Data Analytics project analyzing Meta ad campaigns using event-level data to drive business decisions.
 </p>
 
-<h1 align="center">📊 Meta Campaign Performance & Customer Engagement Analytics</h1>
-
-<p align="center">
-<strong>End-to-End Data Analytics Project</strong><br>
-Facebook & Instagram Marketing Performance Analysis
-</p>
 
 <p align="center">
 
