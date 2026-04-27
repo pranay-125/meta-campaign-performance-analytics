@@ -6,25 +6,22 @@
 End-to-end Data Analytics project analyzing Meta ad campaigns using event-level data to drive business decisions.
 </p>
 
+<h1 align="center">📊 Meta Campaign Performance & Customer Engagement Analytics</h1>
+
+<p align="center">
+<strong>End-to-End Data Analytics Project</strong><br>
+Facebook & Instagram Marketing Performance Analysis
+</p>
+
 <p align="center">
 
-<img src="https://img.shields.io/badge/BI-Power%20BI-yellow?style=for-the-badge&logo=powerbi">
+<img src="https://img.shields.io/badge/Domain-Marketing%20Analytics-4B8BBE?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Data-SQL-blue?style=for-the-badge&logo=mysql">
+<img src="https://img.shields.io/badge/Tools-SQL%20%7C%20Power%20BI%20%7C%20Excel-F28C28?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Data-Excel-green?style=for-the-badge&logo=microsoft-excel">
+<img src="https://img.shields.io/badge/Skills-DAX%20%7C%20Data%20Modeling%20%7C%20KPI%20Design%20%7C%20Funnel%20Analysis-6A5ACD?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Analytics-DAX-orange?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Modeling-Star%20Schema-red?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Analysis-Funnel%20Analysis-purple?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Analysis-KPI%20Design-darkblue?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Analysis-Statistical%20Analysis-teal?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Domain-Marketing%20Analytics-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/Focus-Campaign%20Performance%20%26%20Customer%20Engagement-2E8B57?style=for-the-badge">
 
 </p>
 
