@@ -7,11 +7,25 @@ End-to-end Data Analytics project analyzing Meta ad campaigns using event-level 
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Tool-PowerBI-yellow?style=for-the-badge&logo=powerbi">
-<img src="https://img.shields.io/badge/Tool-SQL-blue?style=for-the-badge&logo=mysql">
-<img src="https://img.shields.io/badge/Tool-Excel-green?style=for-the-badge&logo=microsoft-excel">
-<img src="https://img.shields.io/badge/Skill-DAX-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/Domain-Marketing%20Analytics-purple?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/BI-Power%20BI-yellow?style=for-the-badge&logo=powerbi">
+
+<img src="https://img.shields.io/badge/Data-SQL-blue?style=for-the-badge&logo=mysql">
+
+<img src="https://img.shields.io/badge/Data-Excel-green?style=for-the-badge&logo=microsoft-excel">
+
+<img src="https://img.shields.io/badge/Analytics-DAX-orange?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Modeling-Star%20Schema-red?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Analysis-Funnel%20Analysis-purple?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Analysis-KPI%20Design-darkblue?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Analysis-Statistical%20Analysis-teal?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Domain-Marketing%20Analytics-black?style=for-the-badge">
+
 </p>
 
 <hr>
@@ -209,10 +223,4 @@ users.user_id → ad_events.user_id
 Aspiring Data Analyst | Business Analytics Enthusiast
 </p>
 
-<ul>
-<li>Power BI</li>
-<li>SQL</li>
-<li>Excel</li>
-<li>Data Modeling</li>
-<li>Business Analytics</li>
-</ul>
+
